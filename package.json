@@ -2,7 +2,9 @@
   "name": "@imperial-catering/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "build": "nx build imperial-catering-ui"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~16.0.0",
