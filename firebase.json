@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/apps/imperial-catering-ui",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
